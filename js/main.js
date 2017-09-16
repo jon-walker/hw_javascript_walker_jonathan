@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 var iceCream = [
     'strawberry',
     'chocolate',
@@ -7,7 +5,7 @@ var iceCream = [
 ];
 
 iceCream.push('orange');
-=======
+
 var presidents = [
     {
         firstName: 'Donald',
@@ -54,8 +52,7 @@ var presidents = [
 ];
 
 console.log(presidents[2].firstName, presidents[2].lastName);
->>>>>>> presidents
-=======
+
 // REQUIREMENT 6a
 function howdy() {
     console.log('Greetings from Jonathan Walker!');
@@ -101,4 +98,3 @@ function inception(favMovie) {
 }
 
 inception('The Shootist');
->>>>>>> functions
